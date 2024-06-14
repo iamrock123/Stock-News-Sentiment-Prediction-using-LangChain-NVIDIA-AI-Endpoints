@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+eodhd
+langchain_nvidia_ai_endpoints
+langchain
+scikit-learn
+xgboost
